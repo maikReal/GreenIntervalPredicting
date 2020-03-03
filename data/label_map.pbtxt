@@ -1,0 +1,13 @@
+item {
+ id: 1
+ name: 'Pedestrian'
+}
+item {
+ id: 2
+ name: 'Non Pedestrian'
+}
+item {
+ id: 3
+ name: 'Road'
+}
+
