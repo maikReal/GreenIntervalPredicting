@@ -32,19 +32,19 @@ How to test current inference graph you can find in <b>GreenIntervalCalculationF
 
 ### PEDESTRIANS 
 
-[Preceision-Recall Curve For Pedestrian class](https://github.com/maikReal/GreenIntervalPredicting/blob/master/Metrics/Pedestrian.png)
+![Preceision-Recall Curve For Pedestrian class](https://github.com/maikReal/GreenIntervalPredicting/blob/master/Metrics/Pedestrian.png)
 
 <b>Average mAp</b> = 99.11%
 
 ### NON-PEDESTRIANS 
 
-[Preceision-Recall Curve For Non-Pedestrian class](https://github.com/maikReal/GreenIntervalPredicting/blob/master/Metrics/Non-Pedestrian.png)
+![Preceision-Recall Curve For Non-Pedestrian class](https://github.com/maikReal/GreenIntervalPredicting/blob/master/Metrics/Non-Pedestrian.png)
 
 <b>Average mAp</b> = 83.27%
 
 ### ROAD
 
-[Preceision-Recall Curve For Road class](https://github.com/maikReal/GreenIntervalPredicting/blob/master/Metrics/Road.png)
+![Preceision-Recall Curve For Road class](https://github.com/maikReal/GreenIntervalPredicting/blob/master/Metrics/Road.png)
 
 <b>Average mAp</b> = 95.44%
 
