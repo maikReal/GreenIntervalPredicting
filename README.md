@@ -16,6 +16,15 @@ Current repository represents method for calculating optimal duration of green i
 1. </b>Tensorflow Object Detection API</b> (https://github.com/tensorflow/models/tree/master/research/object_detection). Full process of setting up you can find in <b>GreenIntervalCalculationFullPipeline.ipynb</b> notebook
 2.  <b>Tensorflow</b> < 2 version
 
+# Run GUI Interface
+
+There are scripts for GUI interface, which was designed for demonstrating curretn pipeline for predicting optimal green interval for pedestrians. For running current applications use the following instruction:
+1. Clone current repository
+2. Be sure that you have [Inference folder](https://drive.google.com/drive/folders/19McKlvEA2NohkTKk9AGlfo9MX2TWyYWT?usp=sharing), where does model weigths store
+3. Run <b>gui_interface.py</b> in <b>Script folder</b>
+4. Install dependencies (when you will click the button "Install dependencies", application will stop)
+5. Test application!
+
 # Train on your own data
 
 If you want to train on your own data: 
